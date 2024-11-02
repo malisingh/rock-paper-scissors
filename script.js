@@ -1,3 +1,7 @@
+// players score variables
+let humanScore = 0;
+let computerScore = 0;
+
 // computer choice
 function getComputerChoice() {
   let computerChoice = Math.random();
